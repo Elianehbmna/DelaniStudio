@@ -1,0 +1,52 @@
+.header {
+    position: relative;
+    text-align: center;
+    color:black;
+    resize: both;
+  
+  }
+  .text1 {
+    
+    /*position: absolute;*/
+    position: absolute;
+  top: 370px;
+  left: 150px;
+  transform: translate(100%, -100%);
+  font-size: 65px;
+  color:white;
+  }
+  .text2 {
+    font-size: 65px;
+    position: absolute;
+  top: 50%;
+  left: 28%;
+  transform: translate(50%, 50%);
+  top: 350px;
+  left:-5px;
+  color:white;
+  
+  }
+  .text3{
+    position: absolute;
+    top: 500px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    margin-bottom: 50%;
+ }
+  .about{
+    color: black;
+    font-family: Arial;
+  background-color:#c8dad3;
+  }
+  .logo {
+    
+    position: absolute;
+  top: 100px;
+  right: 590px;
+  
+  }
+  .text3{
+    position: absolute;
+    top: 500px;
+    left: 50%;
