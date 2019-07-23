@@ -55,13 +55,32 @@ body{
     font-stretch: condensed;
     margin-right: 20px;
     margin-left: 20px;
+    width: 570px; 
+    margin: 0 auto
   }
 
 .text5{
   color: rgb(37, 36, 36);  
   font-family: Arial;
   text-align: center;
+  font-stretch: condensed;
+  margin-right: 20px;
+  margin-left: 20px;
+  width: 600px; 
+  margin: 0 auto;
+  margin-top:10px
 }
+.text6{
+    color: rgb(37, 36, 36);  
+    font-family: Arial;
+    text-align: center;
+    font-stretch: condensed;
+  font-size:15.6px;
+    width: 400px; 
+    margin: 0 auto;
+    margin-top:70px;
+    line-height: 1.8;
+  } 
   .logo {
     
     position: absolute;
