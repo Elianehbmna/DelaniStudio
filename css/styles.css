@@ -80,7 +80,28 @@ body{
     margin: 0 auto;
     margin-top:70px;
     line-height: 1.8;
+    margin-bottom: 150px;
   } 
+  .text7{
+    position: absolute;
+  top: 45px;
+  right: 480px; 
+  position: absolute;
+  font-size: 65px;
+  color:white; 
+  }
+  .text8{
+    position: absolute; 
+    transform: translate(100%, -100%);
+    top: 200px;
+    left:-30px;
+    color: white; 
+    font-family: Arial;
+    text-align: center;
+    width: 450px; 
+    margin: 0 auto;
+    margin-top:70px;  
+  }
   .logo {
     
     position: absolute;
