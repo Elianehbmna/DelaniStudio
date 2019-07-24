@@ -119,15 +119,50 @@ body{
   .click{
     position: absolute;
     top: 600px;
-    left: 50%;}
+    left: 50%;
+  }
     @media screen and (max-width: 800px) {
         .header, .text1, .text2,.about {
          font-size: 65px; 
         }
       }
-.port2{
-  margin-top: 20px;
+      .photos {
+        display: flex;
+      }
+      
+      .rowi {
+        flex: 25%;
+        padding: 5px;
+        height:cover;
+      }
+      .rowi {
+        display: flex;
+      }
+      
+      #image{
+        width: 90%;
+        height: 90%;
+        padding-left: 30px;
+      }
+      .text{
+        position: absolute;
+        top:150px;
+        left:350px;
+        background-color: transparent;
+      }
+      .email{
+        position: absolute;
+        top:150px;
+        left:700px;
+        background-color: transparent;
+      }
+      .textarea{
+        position: absolute;
+        top:200px;
+        left:270px;
+        background-color: transparent;
+        color:white;
+      }
 
-  width: 100%;
-  height:50%;
-}
+      
+      
