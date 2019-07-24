@@ -172,6 +172,15 @@ body{
         padding:30px;
         margin-top: 20px;
       }
+      .design{
+        display: none;
+      }
 
+      .dvlpmt{
+        display: none;
+      }
+      .mngmt{
+        display: none;
+      }
       
       
