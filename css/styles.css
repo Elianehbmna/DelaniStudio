@@ -161,7 +161,15 @@ body{
         top:200px;
         left:270px;
         background-color: transparent;
+        
+      }
+      ::placeholder { 
         color:white;
+      }
+      footer{
+        background-color: white;
+        padding:30px;
+        margin-top: 10%
       }
 
       
