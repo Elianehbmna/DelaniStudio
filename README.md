@@ -25,7 +25,7 @@ my project is about recreating the delani studio website
 
 ## The link to live site on GitHub pages:
 
-
+https://elianehbmna.github.io/DelaniStudio/
 
 ## Copyright and license information:
 
