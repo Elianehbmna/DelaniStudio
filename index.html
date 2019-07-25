@@ -117,11 +117,11 @@
       <img src="img/c_image.jpg" class="img-fluid" alt="Responsive image" style="width:97.6%">
       <div class="display" style="padding:24px 48px">
           <h1 class="text7">CONTACT US</h1>
-        <form class="form">
-            <input type="text"  placeholder="Name..." class="text" style="border-color:grey" id="name" name="text">
+        <form id="myform">
+            <input type="text"  placeholder="Name..." class="text" style="border-color:grey" id="name" name="names">
             <input type="email"  placeholder="Email..." class="email" style="border-color:grey" id="email" name="email">
-            <textarea  rows="9" cols="80" id="comment" placeholder="Your message here..." class="textarea" id="area"></textarea>
-            <input type="button" onclick="send()" class="buton" id="sendbutton" value="send">
+            <textarea  rows="9" cols="80" id="comment" placeholder="Your message here..." class="textarea" id="area" name="area"></textarea>
+            <button type="button" onclick="send()" class="buton" id="sendbutton">send</button>
         </form>
         </div>
         <footer>
