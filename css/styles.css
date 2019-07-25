@@ -194,5 +194,60 @@ body{
         background-color:#fbd1b7; 
         right:150px; 
       }
+     #im{
+       position:relative;
+      overflow: hidden;
+     }
+     #ima{
+      position:relative;
+     overflow: hidden;
+    }
+    #imaa{
+      position:relative;
+     overflow: hidden;
+    }
+    #imag{
+      position:relative;
+     overflow: hidden;
+    }
+    #pi{
+      position:relative;
+     overflow: hidden;
+    }
+    #pic{
+      position:relative;
+     overflow: hidden;
+    }
+    #pict{
+      position:relative;
+     overflow: hidden;
+    }
+    #pictu{
+      position:relative;
+     overflow: hidden;
+    }
+      .lay{
+        position: absolute;
+        text-align: center;
+        width: 78%;
+        height: 86%;
+        background: rgba(0,0,0,.8);
+        top:5px;
+       left:34px;
+       
+      }
+       .lay h2{
+         position: absolute;
+         margin:0;
+         padding:0;
+         top:50%;
+         transform:translateY(-50%);
+        color:#fff;
+        width:100%;
+        font-family: sans-serif;
+      }
+       
+
+     
       
       
