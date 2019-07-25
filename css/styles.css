@@ -43,14 +43,14 @@ body{
   .about{
     color: rgb(37, 36, 36);
     font-family: Arial;
-    font-size: 65px;
+    font-size: 30px;
     margin-top: 60px
  
   }
   .abouti{
     color: rgb(37, 36, 36);
     font-family: Arial;
-    font-size: 65px;
+    font-size: 30px;
     margin-top: 60px;
     margin-bottom: 30px;
 
@@ -93,9 +93,9 @@ body{
   .text7{
     position: absolute;
   top: 45px;
-  right: 480px; 
+  right: 550px; 
   position: absolute;
-  font-size: 65px;
+  font-size: 30px;
   color:white; 
   }
   .text8{
@@ -108,7 +108,7 @@ body{
     text-align: center;
     width: 450px; 
     margin: 0 auto;
-    margin-top:70px;  
+    margin-top:30px;  
   }
   .logo {
     
@@ -170,9 +170,9 @@ body{
       }
       
       #image{
-        width: 90%;
-        height: 90%;
-        padding-left: 30px;
+        width: 95%;
+        height: 95%;
+        padding-left: 10px;
       }
       .text{
         position: absolute;
@@ -257,11 +257,11 @@ body{
       .lay{
         position: absolute;
         text-align: center;
-        width: 78%;
-        height: 86%;
+        width: 88%;
+        height: 91%;
         background: rgba(0,0,0,.8);
         top:5px;
-       left:34px;
+       left:16px;
        
       }
        .lay h2{
@@ -277,11 +277,11 @@ body{
       .layi{
         position: absolute;
         text-align: center;
-        width: 78%;
-        height: 86%;
+        width: 88%;
+        height: 91%;
         background: rgba(0,0,0,.8);
         top:5px;
-       left:34px;
+       left:16px;
        
       }
        .layi h2{
@@ -297,11 +297,11 @@ body{
       .laya{
         position: absolute;
         text-align: center;
-        width: 78%;
-        height: 86%;
+        width: 88%;
+        height: 91%;
         background: rgba(0,0,0,.8);
         top:5px;
-       left:34px;
+       left:16px;
        
       }
        .laya h2{
@@ -317,11 +317,11 @@ body{
       .layo{
         position: absolute;
         text-align: center;
-        width: 78%;
-        height: 86%;
+        width: 88%;
+        height: 91%;
         background: rgba(0,0,0,.8);
         top:5px;
-       left:34px;
+       left:16px;
        
       }
        .layo h2{
@@ -337,11 +337,11 @@ body{
       .laye{
         position: absolute;
         text-align: center;
-        width: 78%;
-        height: 86%;
+        width: 88%;
+        height: 91%;
         background: rgba(0,0,0,.8);
         top:5px;
-       left:34px;
+       left:16px;
        
       }
        .laye h2{
@@ -357,11 +357,11 @@ body{
       .layu{
         position: absolute;
         text-align: center;
-        width: 78%;
-        height: 86%;
+        width: 88%;
+        height: 91%;
         background: rgba(0,0,0,.8);
         top:5px;
-       left:34px;
+       left:16px;
        
       }
        .layu h2{
@@ -377,11 +377,11 @@ body{
       .layx{
         position: absolute;
         text-align: center;
-        width: 78%;
-        height: 86%;
+        width: 88%;
+        height: 91%;
         background: rgba(0,0,0,.8);
         top:5px;
-       left:34px;
+       left:16px;
        
       }
        .layx h2{
@@ -397,11 +397,11 @@ body{
       .layz{
         position: absolute;
         text-align: center;
-        width: 78%;
-        height: 86%;
+        width: 88%;
+        height: 91%;
         background: rgba(0,0,0,.8);
         top:5px;
-       left:34px;
+       left:16px;
        
       }
        .layz h2{
