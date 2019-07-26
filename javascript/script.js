@@ -8,11 +8,13 @@ var fname = document.getElementById("name");
 var message = document.getElementById("area");
 console.log(name);
 
+
 document.getElementById("sendbutton").addEventListener("click", function () { 
   
   //alert('Hello ' + fname.value  +' thank you for contacting us');
   document.getElementById("message").innerHTML='Hello ' + fname.value  +' ! thank you for contacting us.';
-  
+ 
+ 
   
 })
 
@@ -39,7 +41,7 @@ $(document).ready(function() {
       });
   
       $('#im').hover(function() {
-          $(this).stop().animate({opacity:.4},200);
+          $(this).stop().animate({opacity:.3},100);
           $('.lay').fadeIn();
   
       }, function() {

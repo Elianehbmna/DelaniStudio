@@ -173,6 +173,7 @@ body{
         width: 95%;
         height: 95%;
         padding-left: 10px;
+        
       }
       .text{
         position: absolute;
@@ -431,6 +432,12 @@ body{
   position: absolute;
   top:100px;
   right:550px;
+  box-shadow: 5px 10px transparent;
 }
-
-       
+#des{
+  left:-80px;
+}
+#man{
+  right:-80px;
+  top:-13px
+}
