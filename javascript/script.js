@@ -10,7 +10,8 @@ console.log(name);
 
 document.getElementById("sendbutton").addEventListener("click", function () { 
   
-  alert('Hello ' + fname.value  +' thank you for contacting us');
+  //alert('Hello ' + fname.value  +' thank you for contacting us');
+  document.getElementById("message").innerHTML='Hello ' + fname.value  +' ! thank you for contacting us.';
   
   
 })
