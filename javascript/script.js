@@ -6,14 +6,28 @@
 var email = document.getElementById("email");
 var fname = document.getElementById("name");
 var message = document.getElementById("area");
-console.log(name);
+
 
 
 document.getElementById("sendbutton").addEventListener("click", function () { 
-  
+    
   //alert('Hello ' + fname.value  +' thank you for contacting us');
+  if (fname.value == "")                                  
+  { 
+      window.alert("Please enter your name."); 
+      name.focus(); 
+      return false; 
+  }
+       
+  else if(email.value == "")                                   
+  { 
+      window.alert("Please enter a valid e-mail address."); 
+      email.focus(); 
+      return false; 
+  } 
+   else {
   document.getElementById("message").innerHTML='Hello ' + fname.value  +' ! thank you for contacting us.';
- 
+}
  
   
 })
